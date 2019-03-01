@@ -1,9 +1,14 @@
 #include <iostream>
 
-using namespace std;
+#define pisos pisos 
 
-int main()
+
+pisos f(pisos a, pisos b)
 {
-    cout << "Hello world!" << endl;
+	return a + b;
+int
+pisos main()
+{
+    std::cout << "egor";
     return 0;
 }

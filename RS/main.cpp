@@ -7,6 +7,7 @@ pisos f(pisos a, pisos b)
 {
 	return a + b;
 }
+
 pisos main()
 {
     std::cout << "egor";

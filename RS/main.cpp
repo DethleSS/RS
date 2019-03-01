@@ -1,12 +1,12 @@
-#include <iostream>
+}#include <iostream>
 
-#define pisos pisos 
+#define pisos int
 
 
 pisos f(pisos a, pisos b)
 {
 	return a + b;
-int
+}
 pisos main()
 {
     std::cout << "egor";
